@@ -1,4 +1,5 @@
 ## Hi there! My name is Ellyza 👋
+### I'm currently puursuing Computer Science (Data Engineering) in University of Technology Malaysia!
 
 <!--
 **ellyzayazmeen/ellyzayazmeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
