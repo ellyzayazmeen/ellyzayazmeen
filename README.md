@@ -1,17 +1,24 @@
-## Hi there! My name is Ellyza 👋
-### I'm currently puursuing Computer Science (Data Engineering) in University of Technology Malaysia!
+# Hi there! I'm Ellyza 👋
 
-<!--
-**ellyzayazmeen/ellyzayazmeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science (Data Engineering) Student at UTM
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **About Me**
+- 🌱 Currently learning and exploring the world of Data Engineering.
+- 📊 Interested in data, databases, and turning raw information into meaningful insights.
+- 🧩 I enjoy solving problems and learning how things work.
+- 🚀 Building my skills through coding, projects, and continuous learning.
+
+🛠️ **Computer Languages**
+- C++ 
+- Git & GitHub
+
+📌 **My Goals**
+- Strengthen my programming fundamentals.
+- Learn more about databases, Python, and data pipelines.
+- Build projects that turn what I learn into something practical.
+
+✨ *Learning one line of code at a time.*
+
+Thanks for visiting! Feel free to explore my repositories.
