@@ -1,24 +1,30 @@
 # Hi there! I'm Ellyza 👋
 
-### 🎓 Computer Science (Data Engineering) Student at UTM
+🎓 **Computer Science (Data Engineering) Student at UTM**
 
-Welcome to my GitHub profile!
+Welcome to my little corner of GitHub! 🌷
 
-💻 **About Me**
-- 🌱 Currently learning and exploring the world of Data Engineering.
-- 📊 Interested in data, databases, and turning raw information into meaningful insights.
-- 🧩 I enjoy solving problems and learning how things work.
-- 🚀 Building my skills through coding, projects, and continuous learning.
+I'm Ellyza, a first year that currently pursuing Computer Science
+(Data Engineering) at Universiti Teknologi Malaysia (UTM).
 
-🛠️ **Computer Languages**
-- C++ 
+### 🌷 About Me
+- 💻 Exploring the world of programming and technology
+- 📊 Interested in data, databases, data analyst and data engineering
+- 🌱 Learning and improving one line of code at a time
+- ✨ Turning curiosity into projects and ideas
+
+### 🛠️ Tech I'm Exploring
+- C++
 - Git & GitHub
+- Python and SQL (learning goals)
 
-📌 **My Goals**
-- Strengthen my programming fundamentals.
-- Learn more about databases, Python, and data pipelines.
-- Build projects that turn what I learn into something practical.
+### 🎯 My Current Goals
+- Strengthen my programming fundamentals
+- Explore data analytics and database management
+- Build projects that solve real-world problems
+- Document my journey as a growing developer
 
-✨ *Learning one line of code at a time.*
+### 🌙 A Little Reminder
+*Small steps, consistent learning, and a little curiosity go a long way.*
 
-Thanks for visiting! Feel free to explore my repositories.
+Thanks for visiting my profile! Feel free to explore my repositories ♡
